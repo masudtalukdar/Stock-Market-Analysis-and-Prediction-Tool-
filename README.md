@@ -99,3 +99,5 @@ This project provides a versatile toolkit for stock market analysis and predicti
 - Integrate additional technical indicators and machine learning models.
 - Develop a user-friendly interface for non-technical users.
 - Incorporate real-time data fetching and analysis.
+
+### This is a project that I created as part of a Machine Learning Final Exam hosted by [Prof. Marco Cristani](https://scholar.google.com/citations?user=LbgTPRwAAAAJ&hl=en)
